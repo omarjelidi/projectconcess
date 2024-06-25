@@ -281,14 +281,6 @@ a {
   margin-top: -10%;
   margin-bottom: -7%;
 }
-
-.navbar .navbar-menu .navbar-nav > li:nth-child(1) > a {
-  color: #000;
-}
-
-.navbar .navbar-menu .navbar-nav > li:nth-child(1) > a {
-  color: #66f;
-}
 @media (max-width: 768px) {
   .navbar {
     padding: 1rem; /* Ajustement de la marge intérieure pour les petits écrans */
