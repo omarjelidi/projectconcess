@@ -1415,7 +1415,7 @@ a {
     filter: brightness(60%);
     position: relative;
     display: flex;
-    margin-left: -100%;
+    margin-left: -130%;
   }
   #simg2 {
     z-index: 1;
@@ -1424,7 +1424,7 @@ a {
     filter: brightness(60%);
     position: relative;
     display: flex;
-    margin-left: -135%;
+    margin-left: -205%;
   }
   #simg3 {
     z-index: 1;
@@ -1433,7 +1433,7 @@ a {
     filter: brightness(60%);
     position: relative;
     display: flex;
-    margin-left: -135%;
+    margin-left: -165%;
   }
   #simg4 {
     z-index: 1;
@@ -1442,7 +1442,7 @@ a {
     filter: brightness(60%);
     position: relative;
     display: flex;
-    margin-left: -135%;
+    margin-left: -165%;
   }
   #simg5 {
     z-index: 1;
@@ -1451,7 +1451,7 @@ a {
     filter: brightness(60%);
     position: relative;
     display: flex;
-    margin-left: -100%;
+    margin-left: -130%;
   }
 
   #txtb {
