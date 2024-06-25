@@ -10,6 +10,18 @@ body {
   font-family: "Roboto", sans-serif;
   font-size: 0.925rem;
 }
+.navbar .navbar-menu .navbar-nav > li:nth-child(1) > a {
+  color: #000; /* Couleur noire pour "Accueil" */
+}
+
+.navbar .navbar-menu .navbar-nav > li:nth-child(3) > a {
+  color: #66f; /* Couleur bleue pour "Produits" */
+}
+
+/* Au survol, la couleur de "Produits" change en bleu plus foncé */
+.navbar .navbar-menu .navbar-nav > li:nth-child(3) > a:hover {
+  color: #0044cc;
+}
 
 a {
   text-decoration: none;
