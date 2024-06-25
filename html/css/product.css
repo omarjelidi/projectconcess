@@ -274,18 +274,6 @@ a {
   }
 }
 
-.navbar .navbar-menu .navbar-nav > li:nth-child(1) > a {
-  color: #000;
-}
-
-.navbar .navbar-menu .navbar-nav > li:nth-child(1) > a {
-  color: #66f;
-}
-
-.navbar .navbar-menu .navbar-nav > li:nth-child(1) > a:hover {
-  color: #0044cc;
-}
-
 #logo {
   height: 38%;
   width: 70%;
