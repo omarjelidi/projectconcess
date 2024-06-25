@@ -1407,7 +1407,7 @@ a {
 #lg6 {
   height: 120px;
 }
-@media (min-width: 0px) and (max-width: 4256px) {
+@media (min-width: 0px) and (max-width: 425px) {
   #simg1 {
     z-index: 1;
     width: 1920px;
