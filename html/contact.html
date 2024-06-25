@@ -70,6 +70,40 @@
         </ul>
         <p>Nous sommes disponibles pour répondre à toutes vos interrogations. N'hésitez pas à nous contacter à tout moment.</p>
       </div>
+              <div class="container">
+          <form action="action_page.php">
+            <label for="fname">Nom</label>
+            <input
+              type="text"
+              id="fname"
+              name="firstname"
+              required
+              placeholder="Your name.."
+            />
+
+            <label for="lname">Prenom</label>
+            <input
+              type="text"
+              id="lname"
+              name="lastname"
+              required
+              placeholder="Your last name.."
+            />
+
+            <label for="country">Pays</label>
+            <select id="country" name="country">
+              <option value="australia">Tunisie</option>
+              <option value="canada">Maroc</option>
+              <option value="usa">Algerie</option>
+            </select>
+
+            <label for="subject">Sujet</label>
+            <textarea
+              id="subject"
+              name="subject"
+              placeholder="Write something.."
+              style="height: 200px"
+            ></textarea>
     </section>
   </main>
 
