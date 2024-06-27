@@ -929,9 +929,11 @@ a {
   }
 }
 @media (min-width: 999px) and (max-width: 1200px) {
-  #srpart{position: absolute;
-    margin-top: 10px ;
-            margin-left: 150px;}
+  #srpart {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 150px;
+  }
   #simg1 {
     z-index: 1;
     width: 1920px;
@@ -1138,7 +1140,6 @@ a {
     margin-left: 2%;
     margin-top: 15%;
     text-align: center;
-    
   }
   #txtb h1 {
     color: white;
@@ -1253,7 +1254,10 @@ a {
   display: block;
   padding: 10px;
 }
-#rbar{border-radius: 12px;}
+#rbar {
+  border-radius: 6px;
+  text-align: center;
+}
 
 .bar {
   display: block;
@@ -1263,13 +1267,15 @@ a {
   margin: 5px auto;
   transition: background-color 0.3s ease;
 }
-#srbtn{margin-left: 2px;
-background-color: #66f ;
-border-color: #66f;
-border-radius: 3px;
-color: white;}
-#srbtn:hover{
-  background-color:#0044cc;
+#srbtn {
+  margin-left: 2px;
+  background-color: #66f;
+  border-color: #66f;
+  border-radius: 3px;
+  color: white;
+}
+#srbtn:hover {
+  background-color: #0044cc;
 }
 /* Styles for when menu is open */
 .navbar-toggler.open .bar:nth-child(1) {
@@ -1546,8 +1552,9 @@ color: white;}
     line-height: 1.5;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
   }
-  #srpart{
-            margin-top: 15px;}
+  #srpart {
+    margin-top: 15px;
+  }
   #logos {
     display: flex;
   }
